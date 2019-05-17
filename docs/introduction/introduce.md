@@ -12,5 +12,5 @@ title: 介绍
 
 #### 小程序码:
 
-<img src="../assets/qrcode.jpg" alt="qrcode" style="width: 150px; height: 150px; margin-top: 20px;">
+<img :src="$withBase('/qrcode.jpg')" alt="qrcode" style="width: 150px; height: 150px; margin-top: 20px;">
 

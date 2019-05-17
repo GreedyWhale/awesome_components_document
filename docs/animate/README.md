@@ -56,4 +56,4 @@ Awesome components组件库一共提供了49种常用的动画效果，分别是
 
 具体效果请参考演示小程序：
 
-<img src="../assets/qrcode.jpg" alt="qrcode" style="width: 150px; height: 150px; margin-top: 20px;">
+<img :src="$withBase('/qrcode.jpg')" alt="qrcode" style="width: 150px; height: 150px; margin-top: 20px;">
