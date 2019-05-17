@@ -1,0 +1,23 @@
+{
+  "name": "awesome_components_document",
+  "version": "1.0.0",
+  "description": "awesome_components 组件库文档",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedyWhale/awesome_components_document.git"
+  },
+  "author": "madaocai@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreedyWhale/awesome_components_document/issues"
+  },
+  "homepage": "https://github.com/GreedyWhale/awesome_components_document#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
